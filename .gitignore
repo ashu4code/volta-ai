@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.idea/
+*.egg-info/
+.DS_Store
+streamlit.log
+nul
+consumer_data/ledgers/
+consumer_data/con.csv
